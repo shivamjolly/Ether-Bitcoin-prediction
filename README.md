@@ -1,4 +1,4 @@
-# Ether-Bitcoin-prediction
+# Ether-cryptocurrency-prediction
 
 This dataset is taken by Kaggle.
 
